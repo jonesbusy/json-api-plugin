@@ -26,7 +26,7 @@
     <url>https://github.com/${gitHubRepo}</url>
   </scm>
   <properties>
-    <revision>20240303</revision>
+    <revision>20241224</revision>
     <changelist>999999-SNAPSHOT</changelist>
     <jenkins.baseline>2.452</jenkins.baseline>
     <jenkins.version>${jenkins.baseline}.4</jenkins.version>
